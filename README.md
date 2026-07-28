@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/MSaadat1/contact-form-main)
-- Live Site URL: [live site URL](gilded-kitten-740530.netlify.app)
+- Live Site URL: [live site URL](https://gilded-kitten-740530.netlify.app)
 
 ## My process
 
